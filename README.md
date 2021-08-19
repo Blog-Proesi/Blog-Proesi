@@ -1,6 +1,6 @@
 ### Proesi Componentes Eletônicos - Apaixondos por Eletônica
 
-Conheça nosso site: www.proesi.com.br
+Conheça nosso site: <a href"www.proesi.com.br" target="_blank" rel="follow">proesi.com.br</a>
 
  <div>
   <a href="https://github.com/Blog-Proesi">
