@@ -1,4 +1,4 @@
-### We are a big eletronics shop in Brazil
+### Proesi Componentes Eletônicos - Apaixondos por Eletônica
 
 Conheça nosso site: www.proesi.com.br
 
