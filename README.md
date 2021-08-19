@@ -1,6 +1,6 @@
 ### We are a big eletronics shop in Brazil
 
-Our website: www.proesi.com.br
+Conheça nosso site: www.proesi.com.br
 
  <div>
   <a href="https://github.com/Blog-Proesi">
